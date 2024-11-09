@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "configvault"
-version = "0.0.1"
+version = "0.0.2"
 description = "Secure, encrypted configuration storage for Python applications"
 readme = "README.md"
 authors = [{ name = "Ioannis D (devcoons)", email = "support@devcoons.com" }]
